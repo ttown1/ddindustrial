@@ -29,7 +29,7 @@
 						<a class="nav-link" href="index.html">Home</a>
 					</li>
 					<li class="nav-item">
-						<a class="nav-link active" href="contact.html">Contact</a>
+						<a class="nav-link active" href="contact.php">Contact</a>
 					</li>
 				</ul>
 				</div>
